@@ -1,7 +1,7 @@
 # I'm Xavier, nice to meet you 👋
 ## 📜 - About Me -
 I'm a computer engineering student who's interested in Cloud, AI and Robotics.
-* 🔭 I’m currently working on personal projects that integrate cloud providers.
+* 🔭 I’m currently working on personal projects that integrate cloud services, and looking to do more with web-scraping.
 * 📘 I’m currently learning about Linux and Bash.
 * ⌛ In the near future I plan on learning C and start working on the Linux programming interface.
 * ⚡ Recently, I've picked up cardio and weight lifting again, I've also started taking my Japanese language studies more seriously.
