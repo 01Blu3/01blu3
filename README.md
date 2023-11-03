@@ -1,6 +1,6 @@
 # I'm Xavier, nice to meet you 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xavierjmoreno)
-[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white)]([https://devpost.com/01Blu3)
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/01Blu3)
 [![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://01blu3.com/)
 
 ---
