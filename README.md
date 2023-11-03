@@ -1,4 +1,10 @@
 # I'm Xavier, nice to meet you 👋
+[![LinkedIn](https://www.linkedin.com/in/xavierjmoreno)]
+[![Wordpress](https://01blu3.com/)]
+[![Devpost]([https://devpost.com/01Blu3)]
+
+---
+
 ## 📜 - About Me -
 I'm a computer engineering student who's interested in Cloud, AI and Robotics.
 * 🔭 I’m currently working on personal projects that integrate cloud services, and looking to do more with web-scraping.
