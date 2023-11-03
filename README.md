@@ -5,7 +5,7 @@
 
 ---
 
-I'm a computer engineering student who's interested in Cloud, AI and Robotics.
+I'm a Network Technician & a computer engineering student who's interested in Cloud, AI and Robotics.
 * 🔭 I’m currently working on personal projects that integrate cloud services, and looking to do more with web-scraping.
 * 📖 I’m currently learning about Linux and Bash.
 * ⌛ In the near future I plan on learning C and beging working on the Linux programming interface.
