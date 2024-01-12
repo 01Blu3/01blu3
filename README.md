@@ -5,9 +5,10 @@
 
 ---
 
-I'm a Network Technician & a Computer Engineering student who's interested in Cloud, AI and Robotics.
-* 🔭 I’m currently working on personal projects that integrate cloud services, and looking to do more with web-scraping.
-* 📖 I’m currently learning about Linux and Bash.
+I'm a Network Technician & a Computer Engineering student who's interested in Cloud, Hardware, AI and Robotics.
+* 🔭 My big project at the moment is my [Systems & Programming Fundamentals Roadmap](https://lab-book.01blu3.com/books/systems-programming-fundamentals). A roadmap that emphasizes learning the fundamentals starting from Linux to Computer Networking then diving deep into programming and computer hardware. It's a major work in progress but I am enjoying it so far!
+* 📖 I’m currently learning about Linux and about to get further into bash.
+* 🧠 I'm also messing around with running local LLM's it's been more engrossing than I expected.
 * ⌛ In the near future I plan on learning C and beging working on the Linux programming interface.
 * ⚡ Recently, I've picked up cardio and weight lifting again, I've also started taking my Japanese language studies more seriously.
 
