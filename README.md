@@ -15,9 +15,12 @@ I'm a Network Technician & a Computer Engineering student who's interested in Cl
 
 ---
 # 📘 Recent Blog Posts
-* [S&PF – The Linux Upskills Challenge](https://01blu3.com/2024/01/spf-the-linux-upskills-challenge/) 
+* [Hackathons: A Two Year Retrospective](https://01blu3.com/2023/10/hackathons-a-two-year-retrospective/)
 * [A Roadmap for the Fundamentals](https://01blu3.com/2024/01/a-roadmap-for-the-fundamentals/) 
-* [Hackathons: A Two Year Retrospective](https://01blu3.com/2023/10/hackathons-a-two-year-retrospective/) 
+* [S&PF – The Linux Upskills Challenge](https://01blu3.com/2024/01/spf-the-linux-upskills-challenge/)
+* [S&PF – Learning the Unix OS (O’Reilly)](https://01blu3.com/2024/04/spf-learning-the-unix-os-oreilly/)
+
+
 
 <!--
 **01Blu3/01blu3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
